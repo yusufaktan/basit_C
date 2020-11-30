@@ -1,0 +1,2 @@
+# basit_C
+ isu
