@@ -1,4 +1,5 @@
 # basit_C
- isu
+ 
+![c programlama](https://pisilog.com/wp-content/uploads/2019/02/c-programming-cover.png)
 
-Derslerde ve ödevlerde yaptığım basit kodlar.
+# isu - Derslerde ve ödevlerde yaptığım basit kodlar.
