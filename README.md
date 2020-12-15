@@ -1,3 +1,3 @@
-![c programlama](https://pisilog.com/wp-content/uploads/2019/02/c-programming-cover.png)
+![c programlama](https://programmerspoint.in/images/c-programming-course.png)
 # basit_C
 # isu - Derslerde ve ödevlerde yaptığım basit programlar.
